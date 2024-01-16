@@ -1,0 +1,11 @@
+PUT http://localhost:8080/events/2
+content-type: application/json
+Authorization:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFieHh4eHh4eGMuY29tIiwiZXhwIjoxNzA1Mzk4MDI3LCJ1c2VySWQiOjJ9.OU3Rf158EdXwnrbxhazkIzRYVYdsNO9Gae2GojbF5wg
+
+
+{
+    "name":"updated",
+    "description":"test",
+    "location":"sdgs",
+    "dateTime":"2025-02-01T15:30:00Z"
+}

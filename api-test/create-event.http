@@ -1,0 +1,11 @@
+POST http://localhost:8080/events
+content-type:application/json
+Authorization:eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFiYy5jb20iLCJleHAiOjE3MDU0MDM3NjUsInVzZXJJZCI6MX0.WdZGtcrIEqNp1zim6ACAPoYiO4VaLdBPvfLiqVUT64g
+
+
+{
+    "name":"Tsdfasfdasg 2222",
+    "description":"test 22222",
+    "location":"indore !!!!",
+    "dateTime":"2015-01-01T15:30:00.00Z"
+}
